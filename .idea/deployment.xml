@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="ssh://wanglin@10.31.153.11:22/home/wanglin/.local/virtualenvs/hz1805/bin/python3.5" autoUploadExternalChanges="true">
+    <serverData>
+      <paths name="ssh://wanglin@10.31.153.11:22/home/wanglin/.local/virtualenvs/hz1805/bin/python3.5">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/wanglin/Desktop/myflask" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
